@@ -110,7 +110,7 @@ const sWrong = () => sfx("sfx_wrong", 0.8, () => beep([300, 220, 160], 0.2, "saw
 const sCast = s => sfx(SFXMAP[s.id] || "sfx_bolt");
 const SFXMAP = { stupefy: "sfx_bolt", expelliarmus: "sfx_bolt", reducto: "sfx_bolt", bombarda: "sfx_explosion", incendio: "sfx_fire", aguamenti: "sfx_water", lumos: "sfx_light", patronus: "sfx_patronus", protego: "sfx_shield", glacius: "sfx_ice", petrificus: "sfx_stone", riddikulus: "sfx_confetti", leviosa: "sfx_levitate", accio: "sfx_accio" };
 const sClick = () => beep([660], 0.05, "triangle", 0.06);
-$("#mute").onclick = () => { muted = !muted; $("#mute").textContent = muted ? "🔇" : "🔊"; if (track) track.volume = muted ? 0 : 0.35; if (muted) { try { speechSynthesis.cancel(); } catch (e) {} } };
+$("#mute").onclick = () => { muted = !muted; $("#mute").textContent = muted ? "🔇" : "🔊"; if (track) track.volume = muted ? 0 : 0.35; if (muted) stopSpeech(); else if (track) track.play().catch(() => {}); };
 document.addEventListener("click", e => { if (!trackName) music("music_menu"); if (e.target.closest("button")) sClick(); }, true);
 
 /* ---------- screens ---------- */
@@ -253,7 +253,7 @@ function nextQuestion() {
   const q = pick(pool); run.used.add(q); return q;
 }
 function askQuestion(q) {
-  run.q = q || nextQuestion(); const Q = run.q;
+  stopSpeech(); run.q = q || nextQuestion(); const Q = run.q;
   $("#p-q").hidden = false;
   $("#q-sub").textContent = `${SUBJECTS[Q.s][0]} ${SUBJECTS[Q.s][1]}`;
   $("#q-text").textContent = Q.q;
@@ -264,7 +264,28 @@ function askQuestion(q) {
   updateCharges(); sayQ();
 }
 function sayQ() { try { if (muted || !window.speechSynthesis) return; } catch (e) {} }
-$("#b-say").onclick = () => { try { speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance($("#q-text").textContent + ". " + $$("#answers .ans:not(.gone)").map(b => b.textContent).join(". ")); u.lang = "en-GB"; u.rate = .9; speechSynthesis.speak(u); } catch (e) {} };
+/* Speech steals the audio session on phones, which silences the music element and never gives it back, so pause it ourselves and resume afterwards. */
+let speaking = false;
+function resumeMusic() {
+  if (!speaking) return; speaking = false;
+  if (track && !muted) { track.volume = 0.35; track.play().catch(() => {}); }
+}
+function stopSpeech() { try { speechSynthesis.cancel(); } catch (e) {} resumeMusic(); }
+$("#b-say").onclick = () => {
+  if (!window.speechSynthesis) return;
+  if (speaking) { stopSpeech(); return; }
+  try {
+    speechSynthesis.cancel();
+    const text = $("#q-text").textContent + ". " + $$("#answers .ans:not(.gone)").map((b, i) => `${"ABCD"[i] || i + 1}. ${b.textContent}`).join(". ");
+    const u = new SpeechSynthesisUtterance(text); u.lang = "en-GB"; u.rate = .9;
+    const v = speechSynthesis.getVoices().find(v => /^en[-_]GB/i.test(v.lang)); if (v) u.voice = v;
+    const done = () => { clearTimeout(guard); resumeMusic(); };
+    const guard = setTimeout(done, 30000);
+    u.onend = u.onerror = done;
+    speaking = true; if (track) track.pause();
+    setTimeout(() => { try { speechSynthesis.speak(u); } catch (e) { done(); } }, 80);
+  } catch (e) { speaking = true; resumeMusic(); }
+};
 $("#b-pow").onclick = () => {
   if (run.charges <= 0) return;
   if (run.power === "swap") { run.charges--; askQuestion(); }
@@ -275,6 +296,7 @@ $("#b-pow").onclick = () => {
 };
 let busy = false;
 async function answer(btn, val) {
+  stopSpeech();
   if (busy) return; busy = true;
   const good = val === run.q.a; $$("#answers .ans").forEach(b => b.disabled = true);
   if (good) {
