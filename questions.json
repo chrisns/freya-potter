@@ -1,0 +1,2786 @@
+[
+{
+"s": "maths",
+"q": "A wizard has 7 bags with 8 Galleons in each. How many Galleons is that?",
+"a": "56",
+"o": [
+"56",
+"55",
+"57",
+"58"
+],
+"h": "Multiply."
+},
+{
+"s": "maths",
+"q": "A wizard has 6 bags with 9 Galleons in each. How many Galleons is that?",
+"a": "54",
+"o": [
+"54",
+"53",
+"55",
+"56"
+],
+"h": "Multiply."
+},
+{
+"s": "maths",
+"q": "A wizard has 12 bags with 4 Galleons in each. How many Galleons is that?",
+"a": "48",
+"o": [
+"48",
+"47",
+"49",
+"50"
+],
+"h": "Multiply."
+},
+{
+"s": "maths",
+"q": "A wizard has 5 bags with 11 Galleons in each. How many Galleons is that?",
+"a": "55",
+"o": [
+"55",
+"54",
+"56",
+"57"
+],
+"h": "Multiply."
+},
+{
+"s": "maths",
+"q": "A wizard has 9 bags with 9 Galleons in each. How many Galleons is that?",
+"a": "81",
+"o": [
+"81",
+"80",
+"82",
+"83"
+],
+"h": "Multiply."
+},
+{
+"s": "maths",
+"q": "A wizard has 8 bags with 6 Galleons in each. How many Galleons is that?",
+"a": "48",
+"o": [
+"48",
+"47",
+"49",
+"50"
+],
+"h": "Multiply."
+},
+{
+"s": "maths",
+"q": "A wizard has 3 bags with 12 Galleons in each. How many Galleons is that?",
+"a": "36",
+"o": [
+"36",
+"35",
+"37",
+"38"
+],
+"h": "Multiply."
+},
+{
+"s": "maths",
+"q": "A wizard has 7 bags with 7 Galleons in each. How many Galleons is that?",
+"a": "49",
+"o": [
+"49",
+"48",
+"50",
+"51"
+],
+"h": "Multiply."
+},
+{
+"s": "maths",
+"q": "48 sweets are shared fairly between 6 first-years. How many does each get?",
+"a": "8",
+"o": [
+"8",
+"7",
+"9",
+"10"
+],
+"h": "Divide."
+},
+{
+"s": "maths",
+"q": "56 sweets are shared fairly between 7 first-years. How many does each get?",
+"a": "8",
+"o": [
+"8",
+"7",
+"9",
+"10"
+],
+"h": "Divide."
+},
+{
+"s": "maths",
+"q": "72 sweets are shared fairly between 8 first-years. How many does each get?",
+"a": "9",
+"o": [
+"9",
+"8",
+"10",
+"11"
+],
+"h": "Divide."
+},
+{
+"s": "maths",
+"q": "36 sweets are shared fairly between 4 first-years. How many does each get?",
+"a": "9",
+"o": [
+"9",
+"8",
+"10",
+"11"
+],
+"h": "Divide."
+},
+{
+"s": "maths",
+"q": "45 sweets are shared fairly between 5 first-years. How many does each get?",
+"a": "9",
+"o": [
+"9",
+"8",
+"10",
+"11"
+],
+"h": "Divide."
+},
+{
+"s": "maths",
+"q": "63 sweets are shared fairly between 9 first-years. How many does each get?",
+"a": "7",
+"o": [
+"7",
+"6",
+"8",
+"9"
+],
+"h": "Divide."
+},
+{
+"s": "maths",
+"q": "96 sweets are shared fairly between 8 first-years. How many does each get?",
+"a": "12",
+"o": [
+"12",
+"11",
+"13",
+"14"
+],
+"h": "Divide."
+},
+{
+"s": "maths",
+"q": "60 sweets are shared fairly between 5 first-years. How many does each get?",
+"a": "12",
+"o": [
+"12",
+"11",
+"13",
+"14"
+],
+"h": "Divide."
+},
+{
+"s": "maths",
+"q": "What is 246 + 138?",
+"a": "384",
+"o": [
+"384",
+"394",
+"374",
+"484"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 319 + 205?",
+"a": "524",
+"o": [
+"524",
+"534",
+"514",
+"624"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 457 + 126?",
+"a": "583",
+"o": [
+"583",
+"593",
+"573",
+"683"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 178 + 215?",
+"a": "393",
+"o": [
+"393",
+"403",
+"383",
+"493"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 364 + 229?",
+"a": "593",
+"o": [
+"593",
+"603",
+"583",
+"693"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 508 + 117?",
+"a": "625",
+"o": [
+"625",
+"635",
+"615",
+"725"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 500 - 237?",
+"a": "263",
+"o": [
+"263",
+"273",
+"253",
+"363"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 642 - 318?",
+"a": "324",
+"o": [
+"324",
+"334",
+"314",
+"424"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 900 - 456?",
+"a": "444",
+"o": [
+"444",
+"454",
+"434",
+"544"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 715 - 289?",
+"a": "426",
+"o": [
+"426",
+"436",
+"416",
+"526"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 830 - 175?",
+"a": "655",
+"o": [
+"655",
+"665",
+"645",
+"755"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 403 - 128?",
+"a": "275",
+"o": [
+"275",
+"285",
+"265",
+"375"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Hedwig delivers 3 letters every day. How many letters in 7 days?",
+"a": "21",
+"o": [
+"21",
+"20",
+"22",
+"23"
+],
+"h": "Use the times table."
+},
+{
+"s": "maths",
+"q": "Hedwig delivers 4 letters every day. How many letters in 7 days?",
+"a": "28",
+"o": [
+"28",
+"27",
+"29",
+"30"
+],
+"h": "Use the times table."
+},
+{
+"s": "maths",
+"q": "Hedwig delivers 5 letters every day. How many letters in 7 days?",
+"a": "35",
+"o": [
+"35",
+"34",
+"36",
+"37"
+],
+"h": "Use the times table."
+},
+{
+"s": "maths",
+"q": "Hedwig delivers 6 letters every day. How many letters in 7 days?",
+"a": "42",
+"o": [
+"42",
+"41",
+"43",
+"44"
+],
+"h": "Use the times table."
+},
+{
+"s": "maths",
+"q": "Hedwig delivers 8 letters every day. How many letters in 7 days?",
+"a": "56",
+"o": [
+"56",
+"55",
+"57",
+"58"
+],
+"h": "Use the times table."
+},
+{
+"s": "maths",
+"q": "What is half of 86?",
+"a": "43",
+"o": [
+"43",
+"42",
+"44",
+"53"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is a quarter of 64?",
+"a": "16",
+"o": [
+"16",
+"32",
+"14",
+"18"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is one tenth of 230?",
+"a": "23",
+"o": [
+"23",
+"2",
+"230",
+"203"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 3/4 of 20?",
+"a": "15",
+"o": [
+"15",
+"5",
+"12",
+"16"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Which fraction is bigger: 1/2 or 1/4?",
+"a": "1/2",
+"o": [
+"1/2",
+"1/4",
+"They are the same",
+"1/8"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Which fraction is the same as 2/4?",
+"a": "1/2",
+"o": [
+"1/2",
+"1/4",
+"3/4",
+"2/3"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 1/3 of 18?",
+"a": "6",
+"o": [
+"6",
+"3",
+"9",
+"5"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 100 more than 3,452?",
+"a": "3,552",
+"o": [
+"3,552",
+"3,462",
+"4,452",
+"3,442"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 10 less than 2,005?",
+"a": "1,995",
+"o": [
+"1,995",
+"2,015",
+"1,905",
+"2,004"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Round 746 to the nearest 10.",
+"a": "750",
+"o": [
+"750",
+"740",
+"700",
+"800"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Round 3,280 to the nearest 100.",
+"a": "3,300",
+"o": [
+"3,300",
+"3,200",
+"3,000",
+"4,000"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Which is the smallest: 405, 450 or 54?",
+"a": "54",
+"o": [
+"54",
+"405",
+"450",
+"They are equal"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is the value of the 6 in 4,682?",
+"a": "600",
+"o": [
+"600",
+"6",
+"60",
+"6,000"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 4 x 25?",
+"a": "100",
+"o": [
+"100",
+"90",
+"29",
+"110"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 9 x 11?",
+"a": "99",
+"o": [
+"99",
+"90",
+"109",
+"101"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 12 x 12?",
+"a": "144",
+"o": [
+"144",
+"124",
+"142",
+"122"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Which number is odd: 18, 24, 31, 40?",
+"a": "31",
+"o": [
+"31",
+"18",
+"24",
+"40"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many sides does a hexagon have?",
+"a": "6",
+"o": [
+"6",
+"5",
+"7",
+"8"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many sides does an octagon have?",
+"a": "8",
+"o": [
+"8",
+"6",
+"7",
+"10"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many right angles does a rectangle have?",
+"a": "4",
+"o": [
+"4",
+"2",
+"3",
+"0"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many faces does a cube have?",
+"a": "6",
+"o": [
+"6",
+"4",
+"8",
+"12"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "A square has sides of 5 cm. What is its perimeter?",
+"a": "20 cm",
+"o": [
+"20 cm",
+"10 cm",
+"25 cm",
+"15 cm"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "A rectangle is 6 cm long and 3 cm wide. What is its perimeter?",
+"a": "18 cm",
+"o": [
+"18 cm",
+"9 cm",
+"12 cm",
+"24 cm"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "A rectangle is 4 cm by 3 cm. What is its area?",
+"a": "12 square cm",
+"o": [
+"12 square cm",
+"7 square cm",
+"14 square cm",
+"10 square cm"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "The lesson starts at 9:15 and lasts 45 minutes. When does it end?",
+"a": "10:00",
+"o": [
+"10:00",
+"9:45",
+"10:15",
+"9:60"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many minutes are there in 2 hours?",
+"a": "120",
+"o": [
+"120",
+"100",
+"60",
+"200"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many days are there in two weeks?",
+"a": "14",
+"o": [
+"14",
+"10",
+"12",
+"16"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many months have 30 days: April, May, June, July?",
+"a": "April and June",
+"o": [
+"April and June",
+"May and July",
+"April and May",
+"June and July"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Which is longer: 1 metre or 80 centimetres?",
+"a": "1 metre",
+"o": [
+"1 metre",
+"80 centimetres",
+"They are the same",
+"Neither"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many centimetres are in 3 metres?",
+"a": "300",
+"o": [
+"300",
+"30",
+"3000",
+"103"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many grams are in 2 kilograms?",
+"a": "2,000",
+"o": [
+"2,000",
+"200",
+"20",
+"20,000"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many millilitres are in 1 litre?",
+"a": "1,000",
+"o": [
+"1,000",
+"100",
+"10",
+"10,000"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "A potion costs £2.50. How much for 2 potions?",
+"a": "£5.00",
+"o": [
+"£5.00",
+"£4.00",
+"£4.50",
+"£2.50"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "You pay £5 for a £3.20 wand polish. How much change?",
+"a": "£1.80",
+"o": [
+"£1.80",
+"£2.80",
+"£1.20",
+"£2.20"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What comes next: 5, 10, 15, 20, ...?",
+"a": "25",
+"o": [
+"25",
+"30",
+"24",
+"22"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What comes next: 100, 90, 80, 70, ...?",
+"a": "60",
+"o": [
+"60",
+"50",
+"65",
+"75"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What comes next: 2, 4, 8, 16, ...?",
+"a": "32",
+"o": [
+"32",
+"24",
+"20",
+"18"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Which is the 4 times table: 4, 8, 12, 16 or 3, 6, 9, 12?",
+"a": "4, 8, 12, 16",
+"o": [
+"4, 8, 12, 16",
+"3, 6, 9, 12",
+"Both",
+"Neither"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 7 x 6?",
+"a": "42",
+"o": [
+"42",
+"36",
+"48",
+"49"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 8 x 8?",
+"a": "64",
+"o": [
+"64",
+"56",
+"72",
+"88"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 9 x 7?",
+"a": "63",
+"o": [
+"63",
+"56",
+"72",
+"54"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 11 x 5?",
+"a": "55",
+"o": [
+"55",
+"45",
+"65",
+"50"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 90 divided by 10?",
+"a": "9",
+"o": [
+"9",
+"10",
+"99",
+"8"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 81 divided by 9?",
+"a": "9",
+"o": [
+"9",
+"8",
+"7",
+"10"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "A tally chart shows 3 groups of five and 2 more. What is the total?",
+"a": "17",
+"o": [
+"17",
+"15",
+"12",
+"20"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "5 witches each have 3 cats. How many cats in all?",
+"a": "15",
+"o": [
+"15",
+"8",
+"12",
+"18"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "There are 40 dragons. 13 fly away. How many are left?",
+"a": "27",
+"o": [
+"27",
+"37",
+"33",
+"53"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "A broom costs £70. It is on sale for £15 off. What is the new price?",
+"a": "£55",
+"o": [
+"£55",
+"£85",
+"£65",
+"£45"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 1,000 - 1?",
+"a": "999",
+"o": [
+"999",
+"900",
+"1001",
+"99"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is 25 + 25 + 25 + 25?",
+"a": "100",
+"o": [
+"100",
+"75",
+"50",
+"125"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is double 35?",
+"a": "70",
+"o": [
+"70",
+"65",
+"75",
+"53"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is half of 100?",
+"a": "50",
+"o": [
+"50",
+"25",
+"5",
+"20"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Which number has the digits 3, 0, 7 in the hundreds, tens, ones places: 307, 370 or 703?",
+"a": "307",
+"o": [
+"307",
+"370",
+"703",
+"37"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Write in digits: four hundred and six.",
+"a": "406",
+"o": [
+"406",
+"46",
+"460",
+"4006"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is the missing number? 14 + ? = 31",
+"a": "17",
+"o": [
+"17",
+"15",
+"27",
+"45"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "What is the missing number? ? x 5 = 35",
+"a": "7",
+"o": [
+"7",
+"6",
+"8",
+"30"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many corners does a triangle have?",
+"a": "3",
+"o": [
+"3",
+"2",
+"4",
+"5"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "Which shape has 4 equal sides and 4 right angles?",
+"a": "Square",
+"o": [
+"Square",
+"Triangle",
+"Circle",
+"Pentagon"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "A clock shows quarter past 3. What time is it?",
+"a": "3:15",
+"o": [
+"3:15",
+"3:45",
+"4:15",
+"2:45"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "A clock shows half past 7. What time is it?",
+"a": "7:30",
+"o": [
+"7:30",
+"6:30",
+"7:15",
+"8:30"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "How many degrees is a right angle?",
+"a": "90",
+"o": [
+"90",
+"45",
+"180",
+"60"
+],
+"h": ""
+},
+{
+"s": "maths",
+"q": "A pictogram: each 🦉 means 2 owls. There are 6 🦉. How many owls?",
+"a": "12",
+"o": [
+"12",
+"6",
+"8",
+"14"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which part of a plant takes in water from the soil?",
+"a": "Roots",
+"o": [
+"Roots",
+"Leaves",
+"Flower",
+"Stem"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What do plants need to make their food?",
+"a": "Sunlight",
+"o": [
+"Sunlight",
+"Darkness",
+"Sugar",
+"Salt"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which gas do plants take in from the air?",
+"a": "Carbon dioxide",
+"o": [
+"Carbon dioxide",
+"Oxygen",
+"Helium",
+"Smoke"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What is the job of the stem?",
+"a": "Carries water up the plant",
+"o": [
+"Carries water up the plant",
+"Makes seeds",
+"Holds the soil",
+"Makes noise"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What do we call an animal that eats only plants?",
+"a": "Herbivore",
+"o": [
+"Herbivore",
+"Carnivore",
+"Omnivore",
+"Predator"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What do we call an animal that eats only meat?",
+"a": "Carnivore",
+"o": [
+"Carnivore",
+"Herbivore",
+"Omnivore",
+"Producer"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which of these is a mammal?",
+"a": "Bat",
+"o": [
+"Bat",
+"Owl",
+"Frog",
+"Salmon"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which of these is a bird?",
+"a": "Owl",
+"o": [
+"Owl",
+"Bat",
+"Frog",
+"Lizard"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What is the hard part inside our bodies that holds us up?",
+"a": "Skeleton",
+"o": [
+"Skeleton",
+"Muscle",
+"Skin",
+"Blood"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "How many bones does a child have roughly?",
+"a": "About 200",
+"o": [
+"About 200",
+"About 20",
+"About 2",
+"About 2,000"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which organ pumps blood around the body?",
+"a": "Heart",
+"o": [
+"Heart",
+"Lungs",
+"Stomach",
+"Brain"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which organ do we use to breathe?",
+"a": "Lungs",
+"o": [
+"Lungs",
+"Heart",
+"Liver",
+"Kidney"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What do teeth do?",
+"a": "Bite and chew food",
+"o": [
+"Bite and chew food",
+"Pump blood",
+"Smell",
+"Hear"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which is a force?",
+"a": "A push",
+"o": [
+"A push",
+"A colour",
+"A smell",
+"A song"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What force pulls things towards the Earth?",
+"a": "Gravity",
+"o": [
+"Gravity",
+"Magnetism",
+"Friction",
+"Sound"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which material is magnetic?",
+"a": "Iron",
+"o": [
+"Iron",
+"Wood",
+"Plastic",
+"Glass"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What is it called when water turns to a gas?",
+"a": "Evaporation",
+"o": [
+"Evaporation",
+"Freezing",
+"Melting",
+"Condensing"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What is it called when ice turns to water?",
+"a": "Melting",
+"o": [
+"Melting",
+"Freezing",
+"Boiling",
+"Evaporating"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "At what temperature does water freeze?",
+"a": "0 degrees Celsius",
+"o": [
+"0 degrees Celsius",
+"10 degrees Celsius",
+"100 degrees Celsius",
+"-50 degrees Celsius"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which is a source of light?",
+"a": "The Sun",
+"o": [
+"The Sun",
+"The Moon",
+"A mirror",
+"A book"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What do we need to see things?",
+"a": "Light",
+"o": [
+"Light",
+"Sound",
+"Heat",
+"Wind"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What makes a shadow?",
+"a": "Something blocks light",
+"o": [
+"Something blocks light",
+"Something makes light",
+"Wind",
+"Heat"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What is made when something vibrates?",
+"a": "Sound",
+"o": [
+"Sound",
+"Light",
+"Heat",
+"Magnets"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which planet do we live on?",
+"a": "Earth",
+"o": [
+"Earth",
+"Mars",
+"Venus",
+"Jupiter"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What does the Earth orbit?",
+"a": "The Sun",
+"o": [
+"The Sun",
+"The Moon",
+"Mars",
+"The Stars"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What does the Moon orbit?",
+"a": "The Earth",
+"o": [
+"The Earth",
+"The Sun",
+"Jupiter",
+"Venus"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What is it called when rock is broken down into small pieces and carried away?",
+"a": "Erosion",
+"o": [
+"Erosion",
+"Evaporation",
+"Gravity",
+"Fossil"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What are the remains of an animal that lived long ago, found in rock?",
+"a": "A fossil",
+"o": [
+"A fossil",
+"A crystal",
+"A seed",
+"A mineral"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which is a solid?",
+"a": "A brick",
+"o": [
+"A brick",
+"Water",
+"Steam",
+"Air"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which is a liquid?",
+"a": "Milk",
+"o": [
+"Milk",
+"Ice",
+"Wood",
+"Smoke"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "A circuit needs a battery, wires and what else to make a bulb light?",
+"a": "A bulb",
+"o": [
+"A bulb",
+"A magnet",
+"A spoon",
+"A stone"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which material is a good electrical conductor?",
+"a": "Copper",
+"o": [
+"Copper",
+"Rubber",
+"Wood",
+"Plastic"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "Which season do leaves usually fall?",
+"a": "Autumn",
+"o": [
+"Autumn",
+"Spring",
+"Summer",
+"Winter"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What do bees help flowers to do?",
+"a": "Make seeds (pollination)",
+"o": [
+"Make seeds (pollination)",
+"Grow roots",
+"Change colour",
+"Stay closed"
+],
+"h": ""
+},
+{
+"s": "science",
+"q": "What do we call the animals that hunt others?",
+"a": "Predators",
+"o": [
+"Predators",
+"Prey",
+"Producers",
+"Plants"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word is a noun?",
+"a": "Castle",
+"o": [
+"Castle",
+"Quickly",
+"Jump",
+"Brave"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word is a verb?",
+"a": "Run",
+"o": [
+"Run",
+"Table",
+"Happy",
+"Under"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word is an adjective? 'The old wizard smiled.'",
+"a": "old",
+"o": [
+"old",
+"wizard",
+"smiled",
+"The"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word is an adverb? 'The owl flew silently.'",
+"a": "silently",
+"o": [
+"silently",
+"owl",
+"flew",
+"The"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is the correct spelling?",
+"a": "Because",
+"o": [
+"Because",
+"Becuase",
+"Becase",
+"Becos"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is the correct spelling?",
+"a": "Necessary",
+"o": [
+"Necessary",
+"Neccessary",
+"Necesary",
+"Necessery"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is the correct spelling?",
+"a": "Library",
+"o": [
+"Library",
+"Libary",
+"Liberry",
+"Librery"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is the correct spelling?",
+"a": "Believe",
+"o": [
+"Believe",
+"Beleive",
+"Belive",
+"Beleeve"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which sentence is punctuated correctly?",
+"a": "The wand was lost.",
+"o": [
+"The wand was lost.",
+"the wand was lost",
+"The wand was lost",
+"the wand was lost."
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which punctuation mark ends a question?",
+"a": "?",
+"o": [
+"?",
+".",
+"!",
+","
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which punctuation mark shows excitement?",
+"a": "!",
+"o": [
+"!",
+"?",
+",",
+"'"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "What does a comma do in a list?",
+"a": "Separates the items",
+"o": [
+"Separates the items",
+"Ends the sentence",
+"Starts a question",
+"Shows a quote"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word is a synonym (same meaning) for 'big'?",
+"a": "Huge",
+"o": [
+"Huge",
+"Tiny",
+"Thin",
+"Soft"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word is an antonym (opposite) of 'hot'?",
+"a": "Cold",
+"o": [
+"Cold",
+"Warm",
+"Boiling",
+"Sunny"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is the plural of 'mouse'?",
+"a": "Mice",
+"o": [
+"Mice",
+"Mouses",
+"Mices",
+"Mouse's"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is the plural of 'child'?",
+"a": "Children",
+"o": [
+"Children",
+"Childs",
+"Childes",
+"Childrens"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is the plural of 'witch'?",
+"a": "Witches",
+"o": [
+"Witches",
+"Witchs",
+"Witchies",
+"Witch's"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word has a prefix?",
+"a": "Unhappy",
+"o": [
+"Unhappy",
+"Happy",
+"Hopeful",
+"Slowly"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "What does the prefix 'un-' usually mean?",
+"a": "Not",
+"o": [
+"Not",
+"Again",
+"Before",
+"Many"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "What does the prefix 're-' usually mean?",
+"a": "Again",
+"o": [
+"Again",
+"Not",
+"Under",
+"Half"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word has a suffix?",
+"a": "Careful",
+"o": [
+"Careful",
+"Care",
+"Cat",
+"Carry"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is a contraction of 'do not'?",
+"a": "Don't",
+"o": [
+"Don't",
+"Do'nt",
+"Dont",
+"Do'not"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is a contraction of 'it is'?",
+"a": "It's",
+"o": [
+"It's",
+"Its'",
+"Its",
+"I'ts"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which sentence uses 'their' correctly?",
+"a": "The students lost their wands.",
+"o": [
+"The students lost their wands.",
+"Their going to class.",
+"Put it over their.",
+"Their is a dragon."
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word is a pronoun?",
+"a": "She",
+"o": [
+"She",
+"Table",
+"Quick",
+"Jump"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which sentence is in the past tense?",
+"a": "The dragon flew away.",
+"o": [
+"The dragon flew away.",
+"The dragon flies away.",
+"The dragon will fly away.",
+"The dragon is flying away."
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which sentence is in the future tense?",
+"a": "I will cast a spell.",
+"o": [
+"I will cast a spell.",
+"I cast a spell.",
+"I cast a spell yesterday.",
+"I have cast a spell."
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "What is a story's first part called?",
+"a": "The beginning",
+"o": [
+"The beginning",
+"The blurb",
+"The index",
+"The glossary"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "What do we call a book that tells true facts?",
+"a": "Non-fiction",
+"o": [
+"Non-fiction",
+"Fiction",
+"Poetry",
+"Fantasy"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word means the same as 'happy'?",
+"a": "Cheerful",
+"o": [
+"Cheerful",
+"Gloomy",
+"Angry",
+"Sleepy"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "What is a word that sounds like a noise, such as 'buzz'?",
+"a": "Onomatopoeia",
+"o": [
+"Onomatopoeia",
+"Alliteration",
+"Simile",
+"Metaphor"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is alliteration?",
+"a": "Silly snakes slither slowly",
+"o": [
+"Silly snakes slither slowly",
+"The sun is hot",
+"A big blue sky",
+"Run to school"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which is a simile?",
+"a": "As brave as a lion",
+"o": [
+"As brave as a lion",
+"The lion is brave",
+"A lion roared",
+"Lions live in Africa"
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which sentence has a capital letter in the right place?",
+"a": "Harry lives in London.",
+"o": [
+"Harry lives in London.",
+"harry lives in London.",
+"Harry lives in london.",
+"harry lives in london."
+],
+"h": ""
+},
+{
+"s": "english",
+"q": "Which word is spelt correctly?",
+"a": "Friend",
+"o": [
+"Friend",
+"Freind",
+"Frend",
+"Firend"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'ai' sound as in 'rain'?",
+"a": "Train",
+"o": [
+"Train",
+"Tin",
+"Trap",
+"Trim"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word rhymes with 'night'?",
+"a": "Light",
+"o": [
+"Light",
+"Lit",
+"Late",
+"Lot"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'oa' sound as in 'boat'?",
+"a": "Coat",
+"o": [
+"Coat",
+"Cot",
+"Cat",
+"Cut"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'ee' sound as in 'feet'?",
+"a": "Sleep",
+"o": [
+"Sleep",
+"Slap",
+"Slip",
+"Slop"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which letters make the 'sh' sound at the start of 'ship'?",
+"a": "s and h together",
+"o": [
+"s and h together",
+"c and h",
+"t and h",
+"w and h"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word starts with the 'ch' sound?",
+"a": "Chair",
+"o": [
+"Chair",
+"Share",
+"Table",
+"Thick"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word starts with the 'th' sound?",
+"a": "Thumb",
+"o": [
+"Thumb",
+"Chum",
+"Sum",
+"Tum"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "How many sounds (phonemes) are in 'cat'?",
+"a": "3",
+"o": [
+"3",
+"2",
+"4",
+"1"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "How many syllables are in 'wizard'?",
+"a": "2",
+"o": [
+"2",
+"1",
+"3",
+"4"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "How many syllables are in 'dragon'?",
+"a": "2",
+"o": [
+"2",
+"1",
+"3",
+"4"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "How many syllables are in 'broomstick'?",
+"a": "2",
+"o": [
+"2",
+"1",
+"3",
+"4"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "How many syllables are in 'potion'?",
+"a": "2",
+"o": [
+"2",
+"1",
+"3",
+"4"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'igh' sound?",
+"a": "High",
+"o": [
+"High",
+"Hip",
+"Hop",
+"Hum"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'ow' sound as in 'cow'?",
+"a": "Town",
+"o": [
+"Town",
+"Tin",
+"Ten",
+"Ton"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'ar' sound as in 'car'?",
+"a": "Star",
+"o": [
+"Star",
+"Stir",
+"Stun",
+"Stop"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'or' sound as in 'fork'?",
+"a": "Horse",
+"o": [
+"Horse",
+"Hose",
+"Hurt",
+"Hat"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'oo' sound as in 'moon'?",
+"a": "Spoon",
+"o": [
+"Spoon",
+"Spin",
+"Span",
+"Spun"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'ur' sound as in 'burn'?",
+"a": "Turn",
+"o": [
+"Turn",
+"Torn",
+"Tarn",
+"Tern"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'air' sound as in 'hair'?",
+"a": "Chair",
+"o": [
+"Chair",
+"Chin",
+"Chip",
+"Chop"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'ear' sound as in 'near'?",
+"a": "Deer",
+"o": [
+"Deer",
+"Dare",
+"Door",
+"Dire"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which letter is silent in 'knight'?",
+"a": "k",
+"o": [
+"k",
+"n",
+"i",
+"t"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which letter is silent in 'wrist'?",
+"a": "w",
+"o": [
+"w",
+"r",
+"i",
+"t"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which letter is silent in 'lamb'?",
+"a": "b",
+"o": [
+"b",
+"l",
+"a",
+"m"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "The 'ph' in 'phone' makes which sound?",
+"a": "f",
+"o": [
+"f",
+"p",
+"h",
+"s"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "The 'c' in 'city' makes which sound?",
+"a": "s",
+"o": [
+"s",
+"k",
+"ch",
+"z"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "The 'g' in 'giant' makes which sound?",
+"a": "j",
+"o": [
+"j",
+"g",
+"h",
+"k"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word is spelt with 'tion' (the 'shun' ending)?",
+"a": "Potion",
+"o": [
+"Potion",
+"Potshun",
+"Potchun",
+"Potsion"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'a-e' split vowel as in 'cake'?",
+"a": "Wave",
+"o": [
+"Wave",
+"Wag",
+"Wad",
+"Wax"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'i-e' sound as in 'kite'?",
+"a": "Bike",
+"o": [
+"Bike",
+"Bit",
+"Bin",
+"Big"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'o-e' sound as in 'bone'?",
+"a": "Rope",
+"o": [
+"Rope",
+"Rot",
+"Rob",
+"Rod"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'u-e' sound as in 'cube'?",
+"a": "Tune",
+"o": [
+"Tune",
+"Tub",
+"Tug",
+"Tun"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'ou' sound as in 'cloud'?",
+"a": "Mouse",
+"o": [
+"Mouse",
+"Mess",
+"Miss",
+"Moss"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has the 'oi' sound as in 'coin'?",
+"a": "Boil",
+"o": [
+"Boil",
+"Bell",
+"Bull",
+"Ball"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word ends with the 'ng' sound?",
+"a": "Ring",
+"o": [
+"Ring",
+"Rin",
+"Rid",
+"Rim"
+],
+"h": ""
+},
+{
+"s": "phonics",
+"q": "Which word has a double 'l' ending?",
+"a": "Spell",
+"o": [
+"Spell",
+"Spel",
+"Spelt",
+"Speld"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which people built Hadrian's Wall in Britain?",
+"a": "The Romans",
+"o": [
+"The Romans",
+"The Vikings",
+"The Tudors",
+"The Victorians"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which people invaded Britain in 1066?",
+"a": "The Normans",
+"o": [
+"The Normans",
+"The Romans",
+"The Greeks",
+"The Aztecs"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Who won the Battle of Hastings in 1066?",
+"a": "William the Conqueror",
+"o": [
+"William the Conqueror",
+"King Harold",
+"Julius Caesar",
+"King Arthur"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Who was the queen who sent ships against the Spanish Armada?",
+"a": "Queen Elizabeth I",
+"o": [
+"Queen Elizabeth I",
+"Queen Victoria",
+"Queen Anne",
+"Queen Mary II"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which king had six wives?",
+"a": "Henry VIII",
+"o": [
+"Henry VIII",
+"Henry V",
+"Richard III",
+"King John"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "In which year did the Great Fire of London start?",
+"a": "1666",
+"o": [
+"1666",
+"1066",
+"1966",
+"1766"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Who wrote a diary about the Great Fire of London?",
+"a": "Samuel Pepys",
+"o": [
+"Samuel Pepys",
+"Anne Frank",
+"Charles Dickens",
+"William Shakespeare"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Where did the Great Fire of London start?",
+"a": "A bakery in Pudding Lane",
+"o": [
+"A bakery in Pudding Lane",
+"A castle",
+"A church",
+"A school"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Who was the queen of Britain for 63 years in the 1800s?",
+"a": "Queen Victoria",
+"o": [
+"Queen Victoria",
+"Queen Anne",
+"Queen Elizabeth I",
+"Queen Mary"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which period were the Tudors in Britain?",
+"a": "1485 to 1603",
+"o": [
+"1485 to 1603",
+"55 BC to 400",
+"1837 to 1901",
+"1939 to 1945"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which people sailed in longships and raided Britain?",
+"a": "The Vikings",
+"o": [
+"The Vikings",
+"The Romans",
+"The Tudors",
+"The Greeks"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "What was the name of the Roman leader who invaded Britain in 55 BC?",
+"a": "Julius Caesar",
+"o": [
+"Julius Caesar",
+"King Alfred",
+"Henry II",
+"Boudicca"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which Iceni queen fought against the Romans?",
+"a": "Boudicca",
+"o": [
+"Boudicca",
+"Cleopatra",
+"Elizabeth I",
+"Victoria"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "What did Stone Age people use to make tools?",
+"a": "Stone and flint",
+"o": [
+"Stone and flint",
+"Plastic",
+"Steel",
+"Glass"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "What is the name of the famous stone circle in Wiltshire?",
+"a": "Stonehenge",
+"o": [
+"Stonehenge",
+"Windsor",
+"Big Ben",
+"Hadrian"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which ancient people built the pyramids?",
+"a": "The Egyptians",
+"o": [
+"The Egyptians",
+"The Romans",
+"The Vikings",
+"The Tudors"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "What were the Ancient Egyptians' picture-writing called?",
+"a": "Hieroglyphics",
+"o": [
+"Hieroglyphics",
+"Alphabet",
+"Cuneiform",
+"Braille"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which ancient country held the first Olympic Games?",
+"a": "Greece",
+"o": [
+"Greece",
+"Italy",
+"Egypt",
+"China"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Who was King of England during the Magna Carta in 1215?",
+"a": "King John",
+"o": [
+"King John",
+"Henry VIII",
+"Alfred the Great",
+"Charles I"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which railway engineer built the Great Western Railway?",
+"a": "Isambard Kingdom Brunel",
+"o": [
+"Isambard Kingdom Brunel",
+"Henry VIII",
+"Samuel Pepys",
+"Florence Nightingale"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which nurse helped soldiers in the Crimean War?",
+"a": "Florence Nightingale",
+"o": [
+"Florence Nightingale",
+"Queen Victoria",
+"Anne Boleyn",
+"Julius Caesar"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "In the Victorian times, many children worked in which places?",
+"a": "Factories and mines",
+"o": [
+"Factories and mines",
+"Zoos",
+"Theme parks",
+"Cinemas"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "What was the name of the first steam train engine to run for the public in 1825?",
+"a": "Locomotion No. 1",
+"o": [
+"Locomotion No. 1",
+"Hogwarts Express",
+"Flying Scotsman",
+"Mallard"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which year did World War Two start?",
+"a": "1939",
+"o": [
+"1939",
+"1914",
+"1966",
+"1945"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "What name was given to children sent out of cities during World War Two?",
+"a": "Evacuees",
+"o": [
+"Evacuees",
+"Pilgrims",
+"Invaders",
+"Sailors"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Who was Britain's Prime Minister in World War Two?",
+"a": "Winston Churchill",
+"o": [
+"Winston Churchill",
+"Henry VIII",
+"Margaret Thatcher",
+"Tony Blair"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which Roman building was used for gladiator fights?",
+"a": "The Colosseum",
+"o": [
+"The Colosseum",
+"Stonehenge",
+"The Pantheon",
+"Big Ben"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "What is a castle's moat?",
+"a": "A ditch filled with water",
+"o": [
+"A ditch filled with water",
+"A tall tower",
+"A drawbridge",
+"A cannon"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which Anglo-Saxon king burned the cakes in the story?",
+"a": "King Alfred",
+"o": [
+"King Alfred",
+"King Henry",
+"King John",
+"King Canute"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which clock tower is part of the Houses of Parliament in London?",
+"a": "Big Ben",
+"o": [
+"Big Ben",
+"Tower Bridge",
+"Stonehenge",
+"Windsor"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+"a": "The Mayflower",
+"o": [
+"The Mayflower",
+"The Titanic",
+"The Golden Hind",
+"The Victory"
+],
+"h": ""
+},
+{
+"s": "history",
+"q": "Which Queen's reign is called the Victorian era?",
+"a": "Queen Victoria",
+"o": [
+"Queen Victoria",
+"Queen Anne",
+"Elizabeth II",
+"Mary I"
+],
+"h": ""
+}
+]

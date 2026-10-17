@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Wizard's Challenge</title>
+<meta name="description" content="A magic school quiz game designed by Freya, age 7. Choose spells, answer questions, save your friends and win a certificate.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="bg"></div>
+<button id="mute" aria-label="Sound on or off">🔊</button>
+
+<main id="app">
+
+<section id="s-title" class="screen">
+  <h1>The Wizard's<br>Challenge</h1>
+  <p class="sub">A game by Freya</p>
+  <div class="btns">
+    <button class="big" id="b-continue" hidden>Continue as <span id="cont-name"></span></button>
+    <button class="big" id="b-new">New wizard</button>
+  </div>
+  <p class="small">Answer questions. Cast spells. Save your friends from He Who Must Not Be Named.<br>Get one wrong and you start again at level 1.</p>
+</section>
+
+<section id="s-make" class="screen" hidden>
+  <h2>Who are you?</h2>
+  <div class="tabs">
+    <button class="tab on" data-tab="own">Make your own</button>
+    <button class="tab" data-tab="book">From the books</button>
+  </div>
+  <div id="own">
+    <div id="avatar"></div>
+    <div class="opts">
+      <label>Name <input id="name" maxlength="14" placeholder="Your name" autocomplete="off"></label>
+      <div><b>Skin</b><div class="sw" id="sw-skin"></div></div>
+      <div><b>Hair colour</b><div class="sw" id="sw-hair"></div></div>
+      <div><b>Hair style</b><div class="sw" id="sw-style"></div></div>
+      <label class="chk"><input type="checkbox" id="glasses"> Glasses</label>
+    </div>
+  </div>
+  <div id="book" hidden>
+    <div class="grid" id="book-grid"></div>
+  </div>
+  <button class="big" id="b-make-next">Next</button>
+</section>
+
+<section id="s-sort" class="screen" hidden>
+  <h2>The Sorting Hat</h2>
+  <img id="hat-img" class="round" src="img/hat.jpg" alt="The Sorting Hat">
+  <p id="hat-say" class="say"></p>
+  <div id="hat-opts" class="answers"></div>
+  <div id="house-result" hidden>
+    <div id="crest"></div>
+    <h3 id="house-name"></h3>
+    <button class="big" id="b-sort-next">Choose your pet</button>
+  </div>
+</section>
+
+<section id="s-pet" class="screen" hidden>
+  <h2>Choose your pet</h2>
+  <p class="small" id="pet-note"></p>
+  <div class="grid" id="pet-grid"></div>
+  <button class="big" id="b-pet-next" disabled>Start the adventure</button>
+</section>
+
+<section id="s-level" class="screen game" hidden>
+  <div class="hud">
+    <div id="lvl-label"></div>
+    <div id="bosshp"><i></i></div>
+    <div id="pet-hud"></div>
+  </div>
+  <div id="stage">
+    <img id="stage-img" alt="">
+    <img id="boss-img" src="img/boss.jpg" alt="He Who Must Not Be Named">
+    <img id="hero" alt="">
+    <canvas id="fx"></canvas>
+    <div id="stage-banner"></div>
+  </div>
+  <div id="panel">
+    <p id="story"></p>
+    <div id="p-subject" hidden>
+      <h3>Choose a subject</h3>
+      <div class="row" id="subjects"></div>
+    </div>
+    <div id="p-spell" hidden>
+      <h3>Choose a spell</h3>
+      <div class="grid spells" id="spells"></div>
+    </div>
+    <div id="p-q" hidden>
+      <div class="qhead"><span id="q-sub"></span><button id="b-say" aria-label="Read the question aloud">🔈 Read aloud</button></div>
+      <p id="q-text"></p>
+      <div class="answers" id="answers"></div>
+      <div class="row">
+        <button class="pow" id="b-pow"></button>
+      </div>
+    </div>
+    <div id="p-msg" hidden>
+      <p id="msg"></p>
+      <button class="big" id="b-msg"></button>
+    </div>
+  </div>
+</section>
+
+<section id="s-win" class="screen" hidden>
+  <h2>You did it!</h2>
+  <p class="say">He Who Must Not Be Named is gone. Harry and his friends are safe.</p>
+  <div id="cert-wrap"><canvas id="cert" width="1400" height="990"></canvas></div>
+  <div class="btns">
+    <button class="big" id="b-print">Print certificate</button>
+    <button class="big" id="b-save">Save picture</button>
+    <button class="big alt" id="b-again">Play again</button>
+  </div>
+</section>
+
+</main>
+<script src="questions.js"></script>
+<script src="game.js"></script>
+</body>
+</html>

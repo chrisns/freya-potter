@@ -1,0 +1,162 @@
+[
+ {
+  "id": "l01",
+  "prompt": "a suburban house at dusk with owls gathering, a cupboard under the stairs"
+ },
+ {
+  "id": "l02",
+  "prompt": "a crooked cobbled magical shopping street with wand shops, cauldrons and broomsticks"
+ },
+ {
+  "id": "l03",
+  "prompt": "a scarlet steam train crossing a high stone viaduct through misty Highlands"
+ },
+ {
+  "id": "l04",
+  "prompt": "a vast castle dining hall with floating candles, an enchanted starry ceiling and four long tables"
+ },
+ {
+  "id": "l05",
+  "prompt": "a stone dungeon classroom with bubbling cauldrons, jars of ingredients and green smoke"
+ },
+ {
+  "id": "l06",
+  "prompt": "a bright tower classroom with feathers and books floating in the air and sparkling light"
+ },
+ {
+  "id": "l07",
+  "prompt": "a huge castle hall with many floating staircases and portraits on the walls"
+ },
+ {
+  "id": "l08",
+  "prompt": "a cosy round stone hut with a chimney, a pumpkin patch and the dark forest behind"
+ },
+ {
+  "id": "l09",
+  "prompt": "a dark misty enchanted forest with glowing mushrooms, giant spider webs and silver unicorn light"
+ },
+ {
+  "id": "l10",
+  "prompt": "a stadium with tall golden hoops, flying broomsticks and cheering crowds in house colours"
+ },
+ {
+  "id": "l11",
+  "prompt": "a giant candlelit library with towering shelves, a rope-barred Restricted Section and floating books"
+ },
+ {
+  "id": "l12",
+  "prompt": "the top of a castle tower at night under a huge moon with stars and a telescope"
+ },
+ {
+  "id": "l13",
+  "prompt": "glass greenhouses full of strange giant plants, snapping vines and glowing flowers"
+ },
+ {
+  "id": "l14",
+  "prompt": "a vast dark lake beside a castle with a giant squid tentacle and a small boat"
+ },
+ {
+  "id": "l15",
+  "prompt": "a magical room full of towering stacked furniture, strange objects and golden light"
+ },
+ {
+  "id": "l16",
+  "prompt": "a huge underground stone chamber with snake-carved pillars and green water"
+ },
+ {
+  "id": "l17",
+  "prompt": "a round cluttered tower room with crystal balls, teacups, cushions and purple smoke"
+ },
+ {
+  "id": "l18",
+  "prompt": "a snowy village with crooked roofs, a sweet shop and glowing windows"
+ },
+ {
+  "id": "l19",
+  "prompt": "a grand black-tiled hall with gold fountains, fireplaces and flying paper memos"
+ },
+ {
+  "id": "l20",
+  "prompt": "a stone covered bridge and castle courtyard at night with swirling spell light in the sky and a dark storm above"
+ },
+ {
+  "id": "boss",
+  "prompt": "a tall, shadowy, menacing but not gory dark wizard silhouette in black robes with glowing green eyes, wide scene, storm clouds, child-friendly",
+  "size": "1536*1024"
+ },
+ {
+  "id": "hat",
+  "prompt": "a friendly old patched pointed wizard hat with a mouth-like fold, sitting on a wooden stool in a candlelit hall",
+  "size": "1024*1024"
+ },
+ {
+  "id": "pet_phoenix",
+  "prompt": "a majestic phoenix with red and gold flames, full body, centred on a soft magical background, cute friendly character portrait",
+  "size": "1024*1024"
+ },
+ {
+  "id": "pet_hippogriff",
+  "prompt": "a proud hippogriff, half eagle half horse, grey feathers, full body, centred on a soft magical background, cute friendly character portrait",
+  "size": "1024*1024"
+ },
+ {
+  "id": "pet_owl",
+  "prompt": "a snowy white owl, full body, centred on a soft magical background, cute friendly character portrait",
+  "size": "1024*1024"
+ },
+ {
+  "id": "pet_thestral",
+  "prompt": "a gentle black winged skeletal horse thestral, full body, centred on a soft magical background, cute friendly character portrait",
+  "size": "1024*1024"
+ },
+ {
+  "id": "pet_niffler",
+  "prompt": "a cute furry black niffler with a long snout holding a gold coin, full body, centred on a soft magical background, cute friendly character portrait",
+  "size": "1024*1024"
+ },
+ {
+  "id": "pet_crookshanks",
+  "prompt": "a ginger cat with a squashed face, full body, centred on a soft magical background, cute friendly character portrait",
+  "size": "1024*1024"
+ },
+ {
+  "id": "pet_dragon",
+  "prompt": "a cute baby Norwegian ridgeback dragon with green scales, full body, centred on a soft magical background, cute friendly character portrait",
+  "size": "1024*1024"
+ },
+ {
+  "id": "pet_kneazle",
+  "prompt": "a fluffy spotted kneazle cat with big ears, full body, centred on a soft magical background, cute friendly character portrait",
+  "size": "1024*1024"
+ },
+ {
+  "id": "ch_harry",
+  "prompt": "cartoon character portrait, a boy wizard with messy black hair, round glasses, scarlet and gold scarf and black robes, friendly smile, simple soft background",
+  "size": "1024*1024"
+ },
+ {
+  "id": "ch_hermione",
+  "prompt": "cartoon character portrait, a girl witch with bushy brown hair and a book, scarlet and gold scarf and black robes, friendly smile, simple soft background",
+  "size": "1024*1024"
+ },
+ {
+  "id": "ch_ron",
+  "prompt": "cartoon character portrait, a boy wizard with red hair and freckles, scarlet and gold scarf and black robes, friendly smile, simple soft background",
+  "size": "1024*1024"
+ },
+ {
+  "id": "ch_luna",
+  "prompt": "cartoon character portrait, a dreamy girl witch with long blonde hair and radish earrings, blue and bronze scarf, black robes, friendly smile, simple soft background",
+  "size": "1024*1024"
+ },
+ {
+  "id": "ch_neville",
+  "prompt": "cartoon character portrait, a round-faced kind boy wizard holding a small plant, black robes, friendly smile, simple soft background",
+  "size": "1024*1024"
+ },
+ {
+  "id": "ch_ginny",
+  "prompt": "cartoon character portrait, a girl witch with long red hair, scarlet and gold scarf, black robes, friendly smile, simple soft background",
+  "size": "1024*1024"
+ }
+]
