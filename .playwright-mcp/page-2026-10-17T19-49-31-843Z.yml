@@ -1,0 +1,8 @@
+- generic [active] [ref=e1]:
+  - button "Sound on or off" [ref=e3] [cursor=pointer]: 🔊
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - heading "The Wizard's Challenge" [level=1] [ref=e6]: The Wizard'sChallenge
+      - paragraph [ref=e7]: A game by Freya
+      - button "New wizard" [ref=e9] [cursor=pointer]
+      - paragraph [ref=e10]: Answer questions. Cast spells. Save your friends from He Who Must Not Be Named.Get one wrong and you start again at level 1.
