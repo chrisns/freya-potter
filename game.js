@@ -332,7 +332,7 @@ let fxFns = [];
 function run_(fn) { fxFns.push(fn); if (!raf) raf = requestAnimationFrame(tick); }
 const frames = n => new Promise(res => { let i = 0; run_(() => { i++; if (i >= n) { res(); return false; } return true; }); });
 function burst(x, y, cols, n = 50, sp = 6, life = 40) { for (let i = 0; i < n; i++) { const a = Math.random() * 7, v = Math.random() * sp; P({ x, y, vx: Math.cos(a) * v, vy: Math.sin(a) * v, life: life * (0.5 + Math.random()), s: 3 + Math.random() * 5, c: pick(cols) }); } }
-const hero = () => ({ x: W() * 0.2, y: H() * 0.78 }), bossPos = () => ({ x: W() * 0.79, y: H() * 0.3 });
+const hero = () => ({ x: W() * 0.12, y: H() * 0.78 }), bossPos = () => ({ x: W() * 0.78, y: H() * 0.38 });
 
 async function castSpell(s) {
   fit(); sCast(s); const h = hero(), b = bossPos(), boss = $("#boss-img");
